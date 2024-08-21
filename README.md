@@ -10,3 +10,13 @@ Libraries Used: Standard C libraries for string handling (<string.h>), memory ma
 
 Modular Design: The code is organized into functions that handle specific tasks such as operand processing, operator processing, and error handling.
 
+# How to make it run:
+
+in order to run the program. you will to download all the files. 
+
+In the terminal. write make and enter.
+
+Then, run the program ./calc.out - it will do all the tests.
+
+# To be continued:
+this program is finished logically. further update of making a UI will be made
