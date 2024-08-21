@@ -5,6 +5,8 @@ This project implements a calculator using a Finite State Machine (FSM) in C. Th
 
 Language: C
 Data Structures: Stacks (for managing operands and operators)
+
 Libraries Used: Standard C libraries for string handling (<string.h>), memory management (<stdlib.h>), and assertions (<assert.h>).
+
 Modular Design: The code is organized into functions that handle specific tasks such as operand processing, operator processing, and error handling.
 
